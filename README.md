@@ -22,4 +22,4 @@ Step:
 
 7.edit automu.py at line 459,and change the token to your(you will get it at step.5)
 
-6.build a Docker container by using python:3.13.0 and run "sh -c "apt-get update && apt-get install -y ffmpeg && pip install discord.py PyNaCl yt_dlp && python3 /your_bot_menu/automu.py"
+6.build a Docker container by using python:3.13.0 and run "sh -c "apt-get update && apt-get install -y ffmpeg && pip install discord.py PyNaCl yt_dlp && python3 /your_bot_menu/automu.py" and enable it
