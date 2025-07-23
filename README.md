@@ -1,7 +1,7 @@
 # SimpleDiscordMusicBot
 A simple Discord music bot can play YouTube videos in a voice channel.
 
-Step:
+#Step:
 
 1.create an Applications on https://discord.com/developers/applications
 <img width="2559" height="1252" alt="螢幕擷取畫面 2025-07-23 203515" src="https://github.com/user-attachments/assets/53514d85-4e65-4c54-9695-70f4db84fe44" />
@@ -23,3 +23,6 @@ Step:
 7.edit automu.py at line 459,and change the token to your(you will get it at step.5)
 
 6.build a Docker container by using python:3.13.0 and run "sh -c "apt-get update && apt-get install -y ffmpeg && pip install discord.py PyNaCl yt_dlp && python3 /your_bot_menu/automu.py" and enable it
+
+
+#Now you can invite this bot to your server and enjoy it!
